@@ -1,0 +1,36 @@
+<style>
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(238, 234, 245);
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+#searchTerm {
+    font-size: 17px;
+    padding: 15px;
+    border: 1px solid rgb(22,142,231)
+}
+
+button {
+    padding: 12px;
+    font-size: 16px;
+    margin-left: 10px;
+    background-color: rgb(124,124,24);
+    color: rgb(8, 1, 15);
+    cursor: pointer;
+}
+
+#clearButton {
+    background-color: rgb(176,22,1);
+    margin-top: 10px;
+}
+
+#gifArea {
+    margin-top: 20px;
+    display: flexbox;
+}
+
+</style>
